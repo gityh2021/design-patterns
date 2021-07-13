@@ -10,6 +10,7 @@ import creational_patterns.factory.operation.AbstractOperation;
  * TIme: 15:11
  */
 public class FactoryTest {
+    // 简单工厂模式需要与AbstractOperation和OperationFactory类耦合
     public static void main(String[] args) {
         // OperationFactory工厂用来产生各种算法操作，根据多态性质来调用各个子类中重写的方法。
         AbstractOperation operation = OperationFactory.createOperate("+");
