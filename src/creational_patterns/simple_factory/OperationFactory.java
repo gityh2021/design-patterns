@@ -1,9 +1,8 @@
-package creational_patterns.factory;
+package creational_patterns.simple_factory;
 
-import com.sun.org.apache.xpath.internal.operations.Operation;
-import creational_patterns.factory.operation.AbstractOperation;
-import creational_patterns.factory.operation.OperationAdd;
-import creational_patterns.factory.operation.OperationDivision;
+import creational_patterns.simple_factory.operation.AbstractOperation;
+import creational_patterns.simple_factory.operation.OperationAdd;
+import creational_patterns.simple_factory.operation.OperationDivision;
 
 /**
  * Created with Intellij IDEA

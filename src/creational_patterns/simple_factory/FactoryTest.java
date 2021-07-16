@@ -1,6 +1,6 @@
-package creational_patterns.factory;
+package creational_patterns.simple_factory;
 
-import creational_patterns.factory.operation.AbstractOperation;
+import creational_patterns.simple_factory.operation.AbstractOperation;
 
 /**
  * Created with Intellij IDEA

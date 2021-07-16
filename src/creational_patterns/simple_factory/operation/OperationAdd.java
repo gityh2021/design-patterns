@@ -1,4 +1,4 @@
-package creational_patterns.factory.operation;
+package creational_patterns.simple_factory.operation;
 
 /**
  * Created with Intellij IDEA
